@@ -1,5 +1,13 @@
 # Student Developer Programs
 
+A curated list of student programs.
+
+A list of 34 active developer programs. To add more programs or edit anything and help me maintain this list, look into Contributing.
+
+> Last audited: August 2026
+> Note: Programs change often. Use the links to confirm whether applications are currently open.
+
+
 ## Students
 
 - [Codex for Students](https://chatgpt.com/codex/students) - OpenAI · $100 in Codex credits (US & Canada students only)
