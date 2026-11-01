@@ -18,6 +18,8 @@ A list of 34 active developer programs. To add more programs or edit anything an
 - [Google AI Pro for Students](https://one.google.com/ai-student) - Google · 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - Google · Stipend and mentorship for students contributing to OSS
 - [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) - JetBrains · Free IDE licenses
+- [Kilobat for Students](https://kilobat.app/students) - Free Kilobat Pro for students using a Mac.
+  > Eligible students aged 13+ in degree-granting programs get one year on two Macs, renewable with a school email while studying; no payment or Kilobat account required.
 - [Kiro for Students](https://kiro.dev/students/) - Kiro (AWS) · 1,000 credits/month free for 1 year (participating universities; SheerID verification)
 - [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) - Linux Foundation · Paid remote OSS mentorship (stipends vary by region)
 - [Manus Campus for Students](https://manus.im/edu) - Manus · Campus access; earn 1,000 credits for each student you invite
